@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **alura midi** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com o intuito de colocar em prática todo conteúdo estudado durante o mesmo
+O projeto **alura midi** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
