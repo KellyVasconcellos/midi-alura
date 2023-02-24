@@ -1,10 +1,10 @@
 
 <h1>
-    <img src="public/apresentacao.gif">
+    <img src="public/apresentacao.png">
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/alura-midi/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/midi-alura/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **alura midi** é uma página que foi criada dentro do curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **alura midi** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com o intuito de colocar em prática todo conteúdo estudado durante o mesmo
 
 ---
 
@@ -33,9 +33,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/alura-midi.git
+    $ git clone https://github.com/KellyVasconcellos/midi-alura.git
     # Entrar no diretório
-    $ cd alura-midi
+    $ cd midi-alura
 ```
 
 ---
