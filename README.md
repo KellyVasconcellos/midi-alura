@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/midi-alura/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/midi-som/">Acessar Website</a>
 <h3 >
 
 # Indice
