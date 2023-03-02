@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **alura midi** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **midi som** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
@@ -33,9 +33,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/midi-alura.git
+    $ git clone https://github.com/KellyVasconcellos/midi-som.git
     # Entrar no diretório
-    $ cd midi-alura
+    $ cd midi-som
 ```
 
 ---
