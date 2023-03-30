@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/midi-som/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/midi-som-js/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -15,17 +15,17 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **midi som** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Midi Som** é uma página que foi criada no curso [JavaScript para Web, páginas dinâmicas](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
@@ -33,9 +33,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/midi-som.git
+    $ git clone https://github.com/KellyVasconcellos/midi-som-js.git
     # Entrar no diretório
-    $ cd midi-som
+    $ cd midi-som-js
 ```
 
 ---
